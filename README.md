@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 😇 I am looking for help with everything!!
-- 🤖 You can see my work in frontmentor: frontendmentor.io/profile/elisavet12
+- 🤖 You can see my work in frontendmentor: frontendmentor.io/profile/elisavet12
 - 📫 How to reach me: linkedin.com/in/elisavetstamou
 
 <!---
